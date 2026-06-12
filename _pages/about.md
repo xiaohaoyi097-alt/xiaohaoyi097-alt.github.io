@@ -20,39 +20,23 @@ redirect_from:
 
 ## 关于我
 
-你好，我是肖豪奕（Haoyi Xiao），现为广东工业大学（GDUT）计算机科学与技术专业大二本科生，位于中国广州。我的研究聚焦于无监督机器学习，尤其关注多变量时间序列聚类与表示学习。
+你好，我是肖豪奕（Haoyi Xiao），现为广东工业大学（GDUT）计算机科学与技术专业大二本科生，位于中国广州。我的研究聚焦于无监督机器学习，多变量时间序列聚类与表示学习。已在相关领域的会议如SIGKDD, BIBM以及ICIC等发表论文3篇。
 
-<div class="quick-links">
-  <a class="profile-button profile-button--primary" href="#selected-publications">查看论文</a>
-  <a class="profile-button" href="https://scholar.google.com/citations?user=7Oiszm8AAAAJ">Google Scholar</a>
-  <a class="profile-button" href="#contact">联系我</a>
-</div>
-</div>
+参与大学生创新训练计划项目5项（国家级项目3项；省级项目2项）和省科创项目1项。现担任SCI期刊IEEE Transactions on Emerging Topics in Computational Intelligence（TETCI）审稿人。
 
 <span class="anchor" id="news"></span>
 
 # 🔥 新闻
-- 🎉 **2026.05** · 论文 **AnchorMoE** 被 **SIGKDD 2026** 接收。
-- 🎉 **2026.03** · 获得 **华商智演·全球AI场景实战创新大赛** 特等奖。
-- 🎉 **2025** · 在 **IEEE BIBM 2025** 与 **ICIC 2025** 发表研究成果。
+- 🎉 **2026/05** ： 一篇论文被SIGKDD 2026录用！
+- 🎉 **2026/03** ： 获得“华商智演·全球AI场景实战创新大赛”特等奖！
+- 🎉 **2025/09** ： 一篇论文被BIBM 2025录用！
+- 🎉 **2025/09** ： 获得“全国大学生数学建模竞赛”省赛二等奖！
+- 🎉 **2025/07** ： 获得“计算机设计大赛”国赛一等奖（该竞赛的国赛最高奖项）！
+- 🎉 **2025/05** ： 一篇论文被ICIC 2025录用！
 
 <span class="anchor" id="research-interests"></span>
 
-# 研究方向
-<div class="tag-list">
-  <span>无监督机器学习</span>
-  <span>多变量时间序列</span>
-  <span>表示学习</span>
-  <span>时间序列分类</span>
-  <span>聚类</span>
-  <span>混合专家模型（MoE）</span>
-</div>
-
-我致力于从复杂的时间序列与定性数据中学习有意义且可解释的表示，尤其关注标签有限或不可用的场景。
-
-<span class="anchor" id="selected-publications"></span>
-
-# 代表性论文
+# 论文
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE BIBM · 2025</div><img src="/images/bibm-de3s.png" alt="DE3S framework overview" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -96,18 +80,18 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 <span class="anchor" id="education"></span>
 
 # 教育经历
-- **2024.09 – 至今** · 广东工业大学，计算机科学与技术学院，本科生，中国广州。
-- **2022.09 – 2024.06** · 广东省茂名市第一中学。
+- **2024.09 – 至今** ：广东工业大学，计算机科学与技术
+- **2022.09 – 2024.06** ： 茂名市第一中学
 
 <span class="anchor" id="honors"></span>
 
 # 荣誉
-- **2026.03** · **华商智演·全球AI场景实战创新大赛** 特等奖。
+- **华商智演·全球AI场景实战创新大赛** 特等奖
 
 <span class="anchor" id="service"></span>
 
 # 服务
-- **2025.12** · 参与 **“百千万工程”** 与 **“三下乡”** 社会实践项目。
+- **“百千万工程”** 与 **“三下乡”** 社会实践项目
 
 <span class="anchor" id="visitors"></span>
 
