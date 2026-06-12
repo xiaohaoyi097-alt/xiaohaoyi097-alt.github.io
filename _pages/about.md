@@ -3,56 +3,104 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+<div class="intro-card" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## Hello, I am Haoyi Xiao (肖豪奕).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a second-year undergraduate student in the School of Computer Science and Technology at **Guangdong University of Technology (GDUT)** and a member of **OMG Lab**. My research focuses on **unsupervised machine learning**, with particular interests in **multivariate time-series analysis**, **representation learning**, classification, and clustering.
 
+我是广东工业大学计算机科学与技术学院本科生、OMG Lab 成员。目前主要关注无监督机器学习、多变量时间序列分析、表示学习、分类与聚类。
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="quick-links">
+  <a class="profile-button profile-button--primary" href="#selected-publications">View publications</a>
+  <a class="profile-button" href="https://scholar.google.com/citations?user=7Oiszm8AAAAJ">Google Scholar</a>
+  <a class="profile-button" href="#contact">Get in touch</a>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="info-grid">
+  <div class="info-card"><span class="info-card__label">Current focus</span><strong>Unsupervised Learning & Time-Series Analysis</strong></div>
+  <div class="info-card"><span class="info-card__label">Affiliation</span><strong>OMG Lab · Guangdong University of Technology</strong></div>
+  <div class="info-card"><span class="info-card__label">Current status</span><strong>Second-year Undergraduate Student</strong></div>
+</div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# News
+- **2026.05** · One paper, **AnchorMoE**, was accepted to **SIGKDD 2026**.
+- **2026.03** · Received the Grand Prize in the **华商智演·全球AI场景实战创新大赛**.
+- **2025** · Published research at **IEEE BIBM 2025** and **ICIC 2025**.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Research Interests / 研究方向
+<div class="tag-list">
+  <span>Unsupervised Machine Learning</span>
+  <span>Multivariate Time Series</span>
+  <span>Representation Learning</span>
+  <span>Time-Series Classification</span>
+  <span>Clustering</span>
+  <span>Mixture of Experts</span>
+</div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+I am interested in learning meaningful and interpretable representations from complex time-series and qualitative data, especially when labels are limited or unavailable.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Selected Publications
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE BIBM · 2025</div><img src="images/bibm-de3s.png" alt="DE3S framework overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification
+
+Tao Xie, Zexi Tan, **Haoyi Xiao**, Binbin Sun, Yiqun Zhang
+
+[Paper](https://arxiv.org/abs/2510.12214)
+
+A dual-enhanced framework for medical early time-series classification, combining patch-level enhancement, sparsification, and expert fusion to support reliable early prediction.
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGKDD · 2026</div><img src="images/kdd-anchormoe.png" alt="AnchorMoE framework overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+
+Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Yiu-ming Cheung
+
+[Paper](https://arxiv.org/abs/2606.03631)
+
+An interpretable mixture-of-experts framework that uses anchor-based routing to connect time-series representations, attribution segments, and expert decisions.
+</div>
+</div>
+
+<div class="paper-box paper-box--compact">
+<div class="paper-box-text" markdown="1">
+
+## MACL: Metric and Attribute Space Co-learning for Qualitative Data Clustering
+
+**Haoyi Xiao**, Xinxi Chen, Xiaopeng Luo, Xiang Zhang, Gengwen Huang, Wei Ai
+
+**ICIC 2025** · [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9894-3_32)
+
+A metric and attribute space co-learning approach for qualitative data clustering.
+</div>
+</div>
+
+# Education
+- **2024.09 – Present** · Undergraduate Student, School of Computer Science and Technology, **Guangdong University of Technology**, Guangzhou, China.
+- **2022.09 – 2024.06** · **Maoming No. 1 High School**, Guangdong, China.
+
+# Honors & Service / 荣誉与服务
+- **2026.03** · Grand Prize, **华商智演·全球AI场景实战创新大赛**.
+- **2025.12** · Participated in the **“百千万工程”** and **“三下乡”** social practice programs.
+
+# Visitors
+{% include visitor-map.html %}
+
+# Contact
+The best way to reach me is by email at [xiaohaoyi1@mails.gdut.edu.cn](mailto:xiaohaoyi1@mails.gdut.edu.cn). I welcome conversations about time-series analysis, unsupervised learning, research collaboration, and open-source projects.
+
+You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=7Oiszm8AAAAJ), [GitHub](https://github.com/xiaohaoyi097-alt), [DBLP](https://dblp.org/pid/413/8396), and [ORCID](https://orcid.org/0009-0000-9312-1052).

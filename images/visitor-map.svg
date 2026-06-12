@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">World visitor map</title>
+  <desc id="desc">A stylized world map with Guangzhou highlighted in red.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#dce9f7"/>
+    </linearGradient>
+    <filter id="glow" x="-200%" y="-200%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="480" rx="28" fill="url(#bg)"/>
+  <g fill="#8faac7" opacity=".9">
+    <path d="M82 139l46-54 93-26 80 23 35 47-20 31-63 7-18 44-47 13-24-35-60-11z"/>
+    <path d="M260 257l52 21 24 62-25 96-33-18-17-80-35-45z"/>
+    <path d="M410 106l64-29 81 15 29 34-31 25-47-3-27 29-49-8-28-31z"/>
+    <path d="M456 192l53 12 46 53-4 75-36 68-35-20-6-65-32-44z"/>
+    <path d="M570 113l77-33 105 20 77 54-16 42-82-1-49 34-67-22-37-45z"/>
+    <path d="M711 329l49-17 54 24 11 42-37 24-61-19z"/>
+  </g>
+  <g fill="#fff" opacity=".55">
+    <circle cx="184" cy="124" r="5"/><circle cx="278" cy="294" r="5"/><circle cx="477" cy="132" r="5"/>
+    <circle cx="514" cy="262" r="5"/><circle cx="645" cy="143" r="5"/><circle cx="771" cy="360" r="5"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="704" cy="201" r="17" fill="#e34d59" opacity=".2"/>
+    <circle cx="704" cy="201" r="8" fill="#e34d59"/>
+    <circle cx="704" cy="201" r="3" fill="#fff"/>
+  </g>
+  <path d="M704 213v47" stroke="#e34d59" stroke-width="3" stroke-linecap="round"/>
+  <rect x="632" y="260" width="144" height="42" rx="21" fill="#17365f"/>
+  <text x="704" y="287" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Guangzhou</text>
+</svg>

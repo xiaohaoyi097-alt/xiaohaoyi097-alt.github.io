@@ -46,8 +46,12 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    margin: 1.25em 0;
+    padding: 1.25em;
+    border: 1px solid #e5eaf0;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 12px 30px rgba(24, 45, 72, .07);
     
 
     .paper-box-image{
@@ -55,9 +59,18 @@
         display: flex;
         width: 100%;
         order: 2;
+
+        > div {
+            width: 100%;
+        }
+
         img {
+            display: block;
+            width: 100%;
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: 10px;
+            box-shadow: none;
+            background: #fff;
             object-fit: cover;
         }
     }
@@ -98,12 +111,176 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: .4rem .8rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #2458a6;
     font-size: .8em;
+    font-weight: 700;
+    letter-spacing: .04em;
+    border-radius: 0 999px 999px 0;
+}
+
+.intro-card {
+    margin-bottom: 1.25rem;
+    padding: clamp(1.4rem, 4vw, 2.4rem);
+    border: 1px solid #dce7f4;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #f7fbff 0%, #eef5ff 100%);
+
+    h2 {
+        margin-top: 0;
+        color: #17365f;
+        font-size: clamp(1.6rem, 4vw, 2.4rem);
+    }
+}
+
+.paper-box--compact {
+    border-left: 4px solid #2458a6;
+
+    .paper-box-text {
+        max-width: 100%;
+        padding-left: 0;
+    }
+}
+
+.quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .65rem;
+    margin-top: 1.2rem;
+}
+
+.profile-button {
+    display: inline-flex;
+    align-items: center;
+    padding: .65rem 1rem;
+    border: 1px solid #c7d5e6;
+    border-radius: 999px;
+    background: #fff;
+    color: #224b8d !important;
+    font-weight: 700;
+    text-decoration: none !important;
+
+    &:hover {
+        border-color: #224b8d;
+        transform: translateY(-1px);
+    }
+}
+
+.profile-button--primary {
+    border-color: #224b8d;
+    background: #224b8d;
+    color: #fff !important;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: .8rem;
+    margin: 1rem 0 1.5rem;
+}
+
+.info-card {
+    padding: 1rem;
+    border-left: 3px solid #4d7fbe;
+    border-radius: 8px;
+    background: #f7f9fc;
+
+    strong {
+        display: block;
+        overflow-wrap: anywhere;
+    }
+}
+
+.info-card__label {
+    display: block;
+    margin-bottom: .35rem;
+    color: #6c7a89;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .55rem;
+    margin: .8rem 0 1rem;
+
+    span {
+        padding: .42rem .75rem;
+        border: 1px solid #d7e2ef;
+        border-radius: 999px;
+        background: #f7fbff;
+        color: #315b8d;
+        font-size: .9rem;
+        font-weight: 700;
+    }
+}
+
+.profile-note {
+    margin-top: 1.5rem;
+    padding: 1rem 1.1rem;
+    border: 1px dashed #c5d4e5;
+    border-radius: 10px;
+    background: #f8fafc;
+    color: #536171;
+}
+
+.visitor-panel {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(220px, .65fr);
+    gap: 1.25rem;
+    align-items: center;
+    margin: 1rem 0 1.5rem;
+    padding: 1.1rem;
+    border: 1px solid #dce7f4;
+    border-radius: 18px;
+    background: #f8fbff;
+}
+
+.visitor-map {
+    overflow: hidden;
+    border-radius: 14px;
+    box-shadow: 0 10px 24px rgba(24, 45, 72, .1);
+
+    img {
+        display: block;
+        width: 100%;
+    }
+}
+
+.visitor-details {
+    h2 {
+        margin-top: .35rem;
+        color: #17365f;
+    }
+}
+
+.visitor-kicker {
+    color: #4d7fbe;
+    font-size: .78rem;
+    font-weight: 800;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.visitor-counter {
+    display: block;
+    margin: 1rem 0 .6rem;
+}
+
+.visitor-note {
+    color: #6c7a89;
+    font-size: .88rem;
+}
+
+@media (max-width: 767px) {
+    .visitor-panel {
+        grid-template-columns: 1fr;
+    }
 }
