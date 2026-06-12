@@ -1,12 +1,16 @@
 <div class="visitor-panel">
-  <div class="visitor-map">
-    <img src="images/visitor-map.svg" alt="World visitor map placeholder with Guangzhou highlighted">
-  </div>
+  <div class="visitor-total-icon" aria-hidden="true">◎</div>
   <div class="visitor-details">
-    <span class="visitor-kicker">Visitors / 访客统计</span>
-    <h2>Welcome from around the world.</h2>
-    <p>This page is ready for a live visitor map that marks each visitor's region. A dedicated map widget can be connected after the site is published.</p>
-    <img class="visitor-counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxiaohaoyi097-alt.github.io&count_bg=%23245A9B&title_bg=%235B6775&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Website visitor count">
-    <p class="visitor-note">Current home base: Guangzhou, China · 当前所在地：中国广州</p>
+    {% if page.lang == "zh-CN" %}
+      <span class="visitor-kicker">累计访问量</span>
+      <h2>感谢你的访问</h2>
+      <p>以下数字统计中文与英文主页的累计访问总量。</p>
+      <img class="visitor-counter" src="https://api.visitorbadge.io/api/visitors?path=xiaohaoyi097-alt.github.io&amp;label=%E7%B4%AF%E8%AE%A1%E8%AE%BF%E9%97%AE%E9%87%8F&amp;countColor=%23245a9b" alt="主页累计访问量">
+    {% else %}
+      <span class="visitor-kicker">Total Visitors</span>
+      <h2>Thank you for visiting</h2>
+      <p>This counter shows the combined total visits to the Chinese and English homepages.</p>
+      <img class="visitor-counter" src="https://api.visitorbadge.io/api/visitors?path=xiaohaoyi097-alt.github.io&amp;label=Total%20Visitors&amp;countColor=%23245a9b" alt="Total homepage visitors">
+    {% endif %}
   </div>
 </div>
