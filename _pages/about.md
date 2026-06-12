@@ -12,11 +12,9 @@ redirect_from:
 
 <div class="intro-card" markdown="1">
 
-## Hello, I am Haoyi Xiao (肖豪奕).
+## About Me
 
-I am a second-year undergraduate student in the School of Computer Science and Technology at **Guangdong University of Technology (GDUT)** and a member of **OMG Lab**. My research focuses on **unsupervised machine learning**, with particular interests in **multivariate time-series analysis**, **representation learning**, classification, and clustering.
-
-我是广东工业大学计算机科学与技术学院本科生、OMG Lab 成员。目前主要关注无监督机器学习、多变量时间序列分析、表示学习、分类与聚类。
+Hello, my name is Haoyi Xiao (肖豪奕), a second-year undergraduate student in Computer Science and Technology at Guangdong University of Technology (GDUT), Guangzhou, China. My research focuses on unsupervised machine learning, with a particular interest in multivariate time series clustering and representation learning.
 
 <div class="quick-links">
   <a class="profile-button profile-button--primary" href="#selected-publications">View publications</a>
