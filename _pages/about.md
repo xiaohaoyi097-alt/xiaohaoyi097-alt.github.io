@@ -91,7 +91,7 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 <span class="anchor" id="service"></span>
 
 # 服务
-- **“百千万工程”** 与 **“三下乡”** 社会实践项目
+- **“百千万工程”** 三下乡 社会实践项目
 
 <span class="anchor" id="visitors"></span>
 
