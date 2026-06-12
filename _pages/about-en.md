@@ -25,9 +25,10 @@ Hello, my name is Haoyi Xiao (肖豪奕), a second-year undergraduate student in
 <span class="anchor" id="news"></span>
 
 # 🔥 News
-- 🎉 **2026.05** · One paper, **AnchorMoE**, was accepted to **SIGKDD 2026**.
+- 🎉 **2026.05** · One paper accepted to **SIGKDD 2026**.
 - 🎉 **2026.03** · Received the Grand Prize in the **Huashang Zhiyan Global AI Scenario Innovation Competition**.
-- 🎉 **2025** · Published research at **IEEE BIBM 2025** and **ICIC 2025**.
+- 🎉 **2025.11** · One paper accepted to **BIBM 2025**.
+- 🎉 **2025.07** · One paper accepted to **ICIC 2025**.
 
 <span class="anchor" id="research-interests"></span>
 
