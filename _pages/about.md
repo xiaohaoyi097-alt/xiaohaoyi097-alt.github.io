@@ -1,12 +1,12 @@
----
+<img width="226" height="267" alt="image" src="https://github.com/user-attachments/assets/a715759f-583d-419e-9207-ae36cd4bec47" />---
 permalink: /
 title: ""
 excerpt: "肖豪奕的个人学术主页"
 seo_title: "肖豪奕 | 个人主页"
 lang: zh-CN
 author_profile: true
-profile_description: "主要研究方向为时间序列分析与无监督机器学习。"
-profile_bio: "本科生 · OMG Lab · GDUT"
+profile_description: "时间序列分析·无监督机器学习"
+profile_bio: "BS · OMG Lab · GDUT"
 profile_location: "中国广州"
 profile_employer: "广东工业大学"
 redirect_from:
@@ -84,7 +84,8 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 
 <span class="anchor" id="education"></span>
 
-# 教育经历
+# <img width="226" height="267" alt="image" src="https://github.com/user-attachments/assets/c1b6e728-6bb5-4e7d-94a7-3d70f3570e38" />
+教育经历
 <div class="education-list">
   <div class="education-item">
     <div class="education-logo"><img src="/images/gdut-logo.png" alt="广东工业大学校徽"></div>
