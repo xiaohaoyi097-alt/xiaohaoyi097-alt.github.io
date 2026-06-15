@@ -24,6 +24,8 @@ redirect_from:
 
 参与大学生创新训练计划项目5项（国家级项目3项；省级项目2项）和省科创项目1项。现担任SCI期刊IEEE Transactions on Emerging Topics in Computational Intelligence（TETCI）审稿人。
 
+</div>
+
 <span class="anchor" id="news"></span>
 
 # 🔥 新闻
@@ -36,6 +38,8 @@ redirect_from:
 - 🎉 **2025/05** ： 一篇论文被ICIC 2025录用！
 
 <span class="anchor" id="research-interests"></span>
+
+<span class="anchor" id="selected-publications"></span>
 
 # 论文
 
@@ -81,8 +85,23 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 <span class="anchor" id="education"></span>
 
 # 教育经历
-- **2024.09 – 至今** ：广东工业大学，计算机科学与技术
-- **2022.09 – 2024.06** ： 茂名市第一中学
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-logo"><img src="/images/gdut-logo.png" alt="广东工业大学校徽"></div>
+    <div class="education-details">
+      <strong>广东工业大学</strong>
+      <span>计算机科学与技术</span>
+      <time>2024.09 – 至今</time>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-logo"><img src="/images/maoming-no1-logo.png" alt="茂名市第一中学校徽"></div>
+    <div class="education-details">
+      <strong>茂名市第一中学</strong>
+      <time>2022.09 – 2024.06</time>
+    </div>
+  </div>
+</div>
 
 <span class="anchor" id="honors"></span>
 

@@ -90,8 +90,24 @@ A metric and attribute space co-learning approach for qualitative data clusterin
 <span class="anchor" id="education"></span>
 
 # Education
-- **2024.09 – Present** · Undergraduate Student, School of Computer Science and Technology, **Guangdong University of Technology**, Guangzhou, China.
-- **2022.09 – 2024.06** · **Maoming No. 1 High School**, Guangdong, China.
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-logo"><img src="/images/gdut-logo.png" alt="Guangdong University of Technology logo"></div>
+    <div class="education-details">
+      <strong>Guangdong University of Technology</strong>
+      <span>Computer Science and Technology</span>
+      <time>2024.09 – Present</time>
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-logo"><img src="/images/maoming-no1-logo.png" alt="Maoming No. 1 High School logo"></div>
+    <div class="education-details">
+      <strong>Maoming No. 1 High School</strong>
+      <span>Guangdong, China</span>
+      <time>2022.09 – 2024.06</time>
+    </div>
+  </div>
+</div>
 
 <span class="anchor" id="honors"></span>
 
