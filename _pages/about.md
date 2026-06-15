@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="intro-card" markdown="1">
 
-## 关于我
+## 👨‍🏫 关于我
 
 你好，我是肖豪奕（Haoyi Xiao），现为广东工业大学（GDUT）计算机科学与技术专业大二本科生，位于中国广州。我的研究聚焦于无监督机器学习，多变量时间序列聚类与表示学习。已在相关领域的会议如SIGKDD, BIBM以及ICIC等发表论文3篇。
 
@@ -41,7 +41,7 @@ redirect_from:
 
 <span class="anchor" id="selected-publications"></span>
 
-# 论文
+# 📝 论文
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE BIBM · 2025</div><img src="/images/bibm-de3s.png" alt="DE3S framework overview" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -84,8 +84,7 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 
 <span class="anchor" id="education"></span>
 
-# <img width="226" height="267" alt="image" src="https://github.com/user-attachments/assets/c1b6e728-6bb5-4e7d-94a7-3d70f3570e38" />
-教育经历
+# 👨‍🎓 教育经历
 <div class="education-list">
   <div class="education-item">
     <div class="education-logo"><img src="/images/gdut-logo.png" alt="广东工业大学校徽"></div>
@@ -106,7 +105,7 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 
 <span class="anchor" id="honors"></span>
 
-# 荣誉
+# 🏆 荣誉
 - **华商智演·全球AI场景实战创新大赛** 特等奖
 - 第18届“中国大学生计算机设计大赛”国赛一等奖（该竞赛的国赛最高奖项）
 - “全国大学生数学建模竞赛”省赛二等奖
