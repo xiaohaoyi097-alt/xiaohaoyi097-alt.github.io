@@ -1,4 +1,4 @@
-<img width="226" height="267" alt="image" src="https://github.com/user-attachments/assets/a715759f-583d-419e-9207-ae36cd4bec47" />---
+---
 permalink: /
 title: ""
 excerpt: "肖豪奕的个人学术主页"
