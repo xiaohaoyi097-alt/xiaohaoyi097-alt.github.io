@@ -12,8 +12,6 @@ zh:
     url: "/#honors"
   - title: "服务"
     url: "/#service"
-  - title: "访客"
-    url: "/#visitors"
   - title: "联系"
     url: "/#contact"
 
@@ -30,7 +28,5 @@ en:
     url: "/en/#honors"
   - title: "Service"
     url: "/en/#service"
-  - title: "Visitors"
-    url: "/en/#visitors"
   - title: "Contact"
     url: "/en/#contact"

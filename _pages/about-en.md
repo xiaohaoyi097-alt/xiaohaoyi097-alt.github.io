@@ -112,11 +112,6 @@ A metric and attribute space co-learning approach for qualitative data clusterin
 # Service
 - **“Computing Meets Intangible Cultural Heritage”** summer social practice project for rural communities, conducted under the **High-Quality Development Project for Counties, Towns, and Villages**
 
-<span class="anchor" id="visitors"></span>
-
-# Visitor Statistics
-{% include visitor-map.html %}
-
 <span class="anchor" id="contact"></span>
 
 # Contact

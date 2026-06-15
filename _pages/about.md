@@ -115,11 +115,6 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 # 服务
 - **“百千万工程”** **“计遇非遗”** 三下乡社会实践项目
 
-<span class="anchor" id="visitors"></span>
-
-# 访客统计
-{% include visitor-map.html %}
-
 <span class="anchor" id="contact"></span>
 
 # 联系方式
