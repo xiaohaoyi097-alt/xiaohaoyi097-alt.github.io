@@ -27,6 +27,7 @@ redirect_from:
 <span class="anchor" id="news"></span>
 
 # 🔥 新闻
+- 🎉 **2026/06** ： 获批主持一项国家级大创项目！
 - 🎉 **2026/05** ： 一篇论文被SIGKDD 2026录用！
 - 🎉 **2026/03** ： 获得“华商智演·全球AI场景实战创新大赛”特等奖！
 - 🎉 **2025/09** ： 一篇论文被BIBM 2025录用！
@@ -87,11 +88,13 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
 
 # 荣誉
 - **华商智演·全球AI场景实战创新大赛** 特等奖
+- 第18届“中国大学生计算机设计大赛”国赛一等奖（该竞赛的国赛最高奖项）
+- “全国大学生数学建模竞赛”省赛二等奖
 
 <span class="anchor" id="service"></span>
 
 # 服务
-- **“百千万工程”** 三下乡 社会实践项目
+- **“百千万工程”** **“计遇非遗”** 三下乡社会实践项目
 
 <span class="anchor" id="visitors"></span>
 
