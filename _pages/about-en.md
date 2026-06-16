@@ -95,7 +95,7 @@ A metric and attribute space co-learning approach for qualitative data clusterin
       <div class="education-logo"><img src="/images/maoming-no1-logo.png" alt="Maoming No. 1 High School logo"></div>
     <div class="education-details">
       <strong>Maoming No. 1 High School</strong>
-      <time>2022.09 – 2024.06</time>
+      <time>2021.03 – 2024.06</time>
     </div>
   </div>
 </div>
