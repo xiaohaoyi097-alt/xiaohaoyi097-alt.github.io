@@ -98,7 +98,7 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Y
     <div class="education-logo"><img src="/images/maoming-no1-logo.png" alt="茂名市第一中学校徽"></div>
     <div class="education-details">
       <strong>茂名市第一中学</strong>
-      <time>2022.09 – 2024.06</time>
+      <time>2021.03 – 2024.06</time>
     </div>
   </div>
 </div>
