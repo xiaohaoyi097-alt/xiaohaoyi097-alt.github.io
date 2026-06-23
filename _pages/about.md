@@ -20,7 +20,7 @@ redirect_from:
 
 ## 👨‍🏫 关于我
 
-你好，我是肖豪奕（Haoyi Xiao），现为广东工业大学（GDUT）计算机科学与技术专业大二本科生，位于中国广州。我的研究聚焦于无监督机器学习，多变量时间序列聚类与表示学习。已在相关领域的会议如SIGKDD, BIBM以及ICIC等发表论文3篇。
+你好，我是肖豪奕（Haoyi Xiao），现为广东工业大学（GDUT）计算机科学与技术专业大二本科生，导师是张逸群教授。我的研究聚焦于无监督机器学习，多变量时间序列聚类与表示学习。已在相关领域的会议如SIGKDD, BIBM以及ICIC等发表论文3篇。
 
 参与大学生创新训练计划项目5项（国家级项目3项；省级项目2项）和省科创项目1项。现担任SCI期刊IEEE Transactions on Emerging Topics in Computational Intelligence（TETCI）审稿人。
 
