@@ -17,7 +17,7 @@ profile_employer: "Guangdong University of Technology"
 
 ## 👨‍🏫 About Me
 
-Hi, I am Haoyi Xiao (肖豪奕), a second-year undergraduate student majoring in Computer Science and Technology at Guangdong University of Technology (GDUT) in Guangzhou, China. My research focuses on unsupervised machine learning, multivariate time-series clustering, and representation learning. I have published three papers at SIGKDD, BIBM, and ICIC.
+Hi, I am Haoyi Xiao (肖豪奕), a second-year B.S. student majoring in Computer Science and Technology at Guangdong University of Technology (GDUT), advised by Prof. Yiqun Zhang. I conduct research in the SIGMTA group at the OMG Lab. My research focuses on unsupervised machine learning, multivariate time-series clustering, and representation learning. I have published three papers at SIGKDD, BIBM, and ICIC.
 
 I have participated in five Student Innovation Training Program projects, including three national-level projects and two provincial-level projects, as well as one provincial science and technology innovation project. I currently serve as a reviewer for **IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)**.
 
