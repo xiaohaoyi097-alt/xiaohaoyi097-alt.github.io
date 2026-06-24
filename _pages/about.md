@@ -42,6 +42,18 @@ redirect_from:
 <span class="anchor" id="selected-publications"></span>
 
 # 📝 论文
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGKDD · 2026</div><img src="/images/kdd-anchormoe.png" alt="AnchorMoE framework overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+
+Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Yiu-ming Cheung
+
+[论文](https://arxiv.org/abs/2606.03631)
+
+该方法是一种可解释的混合专家框架，利用基于锚点的路由机制连接时间序列表示、归因片段与专家决策。
+</div>
+</div>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE BIBM · 2025</div><img src="/images/bibm-de3s.png" alt="DE3S framework overview" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -53,19 +65,6 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Binbin Sun, Yiqun Zhang
 [论文](https://arxiv.org/abs/2510.12214)
 
 该方法面向医疗早期时间序列分类，结合片段级增强、稀疏化与专家融合，以支持可靠的早期预测。
-</div>
-</div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGKDD · 2026</div><img src="/images/kdd-anchormoe.png" alt="AnchorMoE framework overview" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-## AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
-
-Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Yiu-ming Cheung
-
-[论文](https://arxiv.org/abs/2606.03631)
-
-该方法是一种可解释的混合专家框架，利用基于锚点的路由机制连接时间序列表示、归因片段与专家决策。
 </div>
 </div>
 
