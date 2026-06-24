@@ -105,9 +105,9 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Binbin Sun, Yiqun Zhang
 <span class="anchor" id="honors"></span>
 
 # 🏆 荣誉
-- **华商智演·全球AI场景实战创新大赛** 特等奖
-- 第18届“中国大学生计算机设计大赛”国赛一等奖（该竞赛的国赛最高奖项）
-- “全国大学生数学建模竞赛”省赛二等奖
+- 华商智演·全球AI场景实战创新大赛 **特等奖**
+- 第18届“中国大学生计算机设计大赛”**国赛一等奖**（该竞赛的国赛最高奖项）
+- “全国大学生数学建模竞赛”**省赛二等奖**
 
 <span class="anchor" id="service"></span>
 
