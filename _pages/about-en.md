@@ -39,6 +39,18 @@ I have participated in five Student Innovation Training Program projects, includ
 <span class="anchor" id="selected-publications"></span>
 
 # 📝 Publications
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGKDD · 2026</div><img src="/images/kdd-anchormoe.png" alt="AnchorMoE framework overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+
+Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Yiu-ming Cheung
+
+[Paper](https://arxiv.org/abs/2606.03631)
+
+An interpretable mixture-of-experts framework that uses anchor-based routing to connect time-series representations, attribution segments, and expert decisions.
+</div>
+</div>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE BIBM · 2025</div><img src="/images/bibm-de3s.png" alt="DE3S framework overview" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -50,19 +62,6 @@ Tao Xie, Zexi Tan, **Haoyi Xiao**, Binbin Sun, Yiqun Zhang
 [Paper](https://arxiv.org/abs/2510.12214)
 
 A dual-enhanced framework for medical early time-series classification, combining patch-level enhancement, sparsification, and expert fusion to support reliable early prediction.
-</div>
-</div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGKDD · 2026</div><img src="/images/kdd-anchormoe.png" alt="AnchorMoE framework overview" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-## AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
-
-Tao Xie, Zexi Tan, **Haoyi Xiao**, Mengke Li, Yiqun Zhang, Yang Lu, Cuie Yang, Yiu-ming Cheung
-
-[Paper](https://arxiv.org/abs/2606.03631)
-
-An interpretable mixture-of-experts framework that uses anchor-based routing to connect time-series representations, attribution segments, and expert decisions.
 </div>
 </div>
 
@@ -103,9 +102,9 @@ A metric and attribute space co-learning approach for qualitative data clusterin
 <span class="anchor" id="honors"></span>
 
 # 🏆 Honors
-- Grand Prize, **Huashang Zhiyan Global AI Scenario Innovation Competition**
-- National First Prize, 18th **Chinese Collegiate Computing Competition (4C)** (the highest award at the national finals)
-- Provincial Second Prize, **China Undergraduate Mathematical Contest in Modeling**
+- **Grand Prize**, Huashang Zhiyan Global AI Scenario Innovation Competition
+- **National First Prize**, 18th Chinese Collegiate Computing Competition (4C) (the highest award at the national finals)
+- **Provincial Second Prize**, China Undergraduate Mathematical Contest in Modeling
 
 <span class="anchor" id="service"></span>
 
